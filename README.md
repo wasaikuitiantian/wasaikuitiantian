@@ -1,3 +1,4 @@
+<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);小赵同学祝您今天愉快!&center=true&size=27"> </a> </h1>
 ## Hi 欢迎来到小赵的小世界 👋
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -30,4 +31,4 @@ Here are some ideas to get you started:
     <img alt="github-snake" src="github-snake.svg" width="95%" />
   </picture>
 </div>
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+
