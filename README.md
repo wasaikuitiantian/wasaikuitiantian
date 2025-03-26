@@ -30,4 +30,4 @@ Here are some ideas to get you started:
     <img alt="github-snake" src="github-snake.svg" width="95%" />
   </picture>
 </div>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
