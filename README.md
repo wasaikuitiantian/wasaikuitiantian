@@ -20,4 +20,4 @@ Here are some ideas to get you started:
     <img alt="github-snake" src="github-snake.svg" width="95%" />
   </picture>
 </div>
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wasaikuitiantian)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wasaikuitiantian)](https://github.com/wasaikuitiantian/github-readme-activity-graph)
