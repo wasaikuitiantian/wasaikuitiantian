@@ -20,6 +20,3 @@ Here are some ideas to get you started:
     <img alt="github-snake" src="github-snake.svg" width="95%" />
   </picture>
 </div>
-
-
-                    ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
