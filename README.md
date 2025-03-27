@@ -21,3 +21,5 @@ Here are some ideas to get you started:
   </picture>
 </div>
 
+
+                    ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
