@@ -3,8 +3,6 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=欢迎来到小赵的小世界!;小赵祝你天天开心!;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
   <div>&nbsp;</div>
-
-  
 ## About me:
 - 🤔 东北财经大学金融科技学院24级研一在读  
 - 🔭 I’m currently working on ...
