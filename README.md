@@ -6,6 +6,8 @@
   <div>&nbsp;</div>
 About me:
 <p> 🤔 东北财经大学金融科技学院24级研一在读</p>
+<p>     会点狗刨</p>
+
 - 🔭 I’m currently working on ...
 - 🌱
 - 👯 I’m looking to collaborate on ...
